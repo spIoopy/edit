@@ -1718,7 +1718,9 @@
 
 ## ▷ Streaming
 
-* [Uakino](https://uakino.club/) - Movies / TV / Anime / Use VPN
+* [UAkino](https://uakino.club/) - Movies / TV / Anime / Use VPN
+* [UAkino-Bay](https://uakino-bay.net/) - Movies / TV / Anime
+* [UASERIAL](https://uaserial.tv/) - Movies / TV / Anime / Use VPN 
 
 ***
 
